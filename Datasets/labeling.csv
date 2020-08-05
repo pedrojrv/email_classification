@@ -1,0 +1,1783 @@
+,subject,label,original_subj
+0,sent,1,'sent mail
+1,sent,1,sent items
+2,sent,1,sent
+3,sent,1,'sent
+4,documents,1,all documents
+5,contacts,1,contacts
+6,deleted,1,deleted items
+7,discussion,1,discussion threads
+8,,2,inbox
+9,,2,to do
+10,,2,it
+11,,2,other
+12,,2,m&a
+13,notes,1,notes inbox
+14,straw,0,straw
+15,2000 conference,3,2000 conference
+16,active international,3,active international
+17,avaya,9,avaya
+18,bmc,9,bmc
+19,bridge,0,bridge
+20,bristol babcock,4,bristol babcock
+21,colleen koenig,4,colleen koenig
+22,compaq,9,compaq
+23,computer associates,1,computer associates
+24,continental airlines,9,continental airlines
+25,cooper cameron,4,cooper cameron
+26,corestaff,2,corestaff
+27,dell,9,dell
+28,ebs,2,ebs
+29,ees,8,ees
+30,ees,8,ees 
+31,enron europe,3,enron europe
+32,etol,2,etol
+33,fedex,9,fedex
+34,ge,9,ge
+35,hp,9,hp
+36,human resources,10,human resources
+37,kinko s,9,kinko's
+38,nepco europe,9,nepco europe
+39,nepco,9,nepco
+40,oec,2,oec
+41,pcc values,2,pcc values
+42,personal,1,personal
+43,personal,1,my personal
+44,personal,1,personal mail
+45,purchasing,3,purchasing
+46,requisite,2,requisite
+47,sap,0,sap
+48,sarahjoy hunter,0,sarah-joy hunter
+49,sonoco,9,sonoco
+50,sony,9,sony
+51,sparefinderscom,2,sparefinders.com
+52,tasks,1,tasks
+53,universal studios,3,universal studios
+54,vulcan signs,2,vulcan signs
+55,weekly report,1,weekly report
+56,drafts,1,drafts
+57,funny,1,funny
+58,histvols,2,hist-vols
+59,receipts,1,receipts
+60,saved,1,saved mail
+61,saved,1,saved
+62,presentations,1,presentations
+63,savedmail,1,savedmail
+64,vanderbilt,2,vanderbilt
+65,cal articles,2,cal articles
+66,california,5,california
+67,capx,2,capx
+68,dj articles,2,dj articles
+69,memo s,1,memo's
+70,move,3,move
+71,press releases,1,press releases
+72,var,8,var
+73,calendar,1,calendar
+74,entex,2,entex
+75,ffl,2,ffl
+76,paintball,0,paintball
+77,exmerge  baughman jr ,2,"exmerge - baughman jr., don"
+78,none,2,none
+79,ect admin,4,ect admin
+80,enron power,7,enron power
+81,24 hour,2,24 hour
+82,cinergy index,3,cinergy index
+83,customer trip2001,3,customer trip2001
+84,eservices,1,e_services
+85,fundamentals,3,fundamentals
+86,gri timesheets,1,gri timesheets
+87,interviews,1,interviews
+88,mapp,2,mapp
+89,mdea,2,mdea
+90,miso,0,miso
+91,options,3,options
+92,pep,2,pep
+93,personelvac,2,personel/vac
+94,personelvac,2,personel_vac
+95,vermont yankee nuke,2,vermont yankee nuke
+96,expense acct ,3,expense acct.
+97,ccv,2,ccv
+98,home buy,2,home buy
+99,huntingfishing,2,hunting/fishing
+100,imagesmoviessound,2,imagesmoviessound
+101,internet,1,internet
+102,job referals,1,job referals
+103,jokes,1,jokes
+104,letters,1,letters
+105,travel,1,travel
+106,uplifting messages,1,uplifting messages
+107,legal agreements,3,legal agreements
+108,so2  nox,2,so2 & nox
+109,enron ubs trans,7,enron to ubs trans
+110,powermktassoc,2,powermktassoc
+111,transmission,7,transmission
+112,ubsw online,2,ubsw online
+113,2001 plan,3,2001 plan
+114,aec,2,aec
+115,analystassoc program,10,analyst_assoc program
+116,apollo  beth,4,"apollo, beth"
+117,approval authorizations,3,approval authorizations
+118,ase,8,ase
+119,australia,5,australia
+120,book administrators,1,book administrators
+121,bridgeline,2,bridgeline
+122,brm,2,brm
+123,causey  rick,4,"causey, rick"
+124,chicago,5,chicago
+125,clickpaper,2,clickpaper
+126,commercialization,3,commercialization
+127,commoditylogic,3,commoditylogic
+128,compensation,3,compensation
+129,congratulations,1,congratulations
+130,cousino  lisa,4,"cousino, lisa"
+131,curve validation,3,curve validation
+132,delainey  dave,4,"delainey, dave"
+133,direct rpts,3,direct rpts
+134,doorstep,0,doorstep
+135,dpr,2,dpr
+136,egm,3,egm
+137,glover  sheila,4,"glover, sheila"
+138,hall  todd,4,"hall, todd"
+139,lng,2,lng
+140,price  brent,3,"price, brent"
+141,herod  brenda,4,"herod, brenda"
+142,steel,7,steel
+143,entelligence,2,entelligence
+144,eol access,1,eol access
+145,eol,2,eol
+146,eott,2,eott
+147,ernietraining,2,ernie-training
+148,europe,5,europe
+149,expense reports,3,expense reports
+150,floorspace,3,floorspace
+151,frevert  mark,2,"frevert, mark"
+152,gbn,2,gbn
+153,global,3,global
+154,india,5,india
+155,japan,5,japan
+156,standards,3,standards
+157,gossett  jeff,4,"gossett, jeff"
+158,hall  bob,0,"hall, bob"
+159,hedstrom  peggy,2,"hedstrom, peggy"
+160,hopwood  tom,4,"hopwood, tom"
+161,hpl,2,hpl
+162,hr,10,hr
+163,issues,3,issues
+164,mcloughlin  hector,2,"mcloughlin, hector"
+165,misc ,4,misc.
+166,ncl,2,ncl
+167,inclement weather list,0,inclement weather list
+168, misc ,4,it - misc.
+169,kitchen  louise,0,"kitchen, louise"
+170,lavorato  john,4,"lavorato, john"
+171,leadership development,10,leadership development
+172,legal,6,legal
+173,melodick  kim,4,"melodick, kim"
+174,merit,10,merit
+175,mg,8,mg
+176,mgmt summary,3,mgmt summary
+177,moscoso  mike,2,"moscoso, mike"
+178,mpr,2,mpr
+179,murphy  ted,8,"murphy, ted"
+180,networks,3,networks
+181,new hires,10,new hires
+182,office chair,2,office of the chair
+183,offsite,1,offsite
+184,offsite,1,off-site
+185,operating rpts,3,operating rpts
+186,org announc   chrts,2,org announc. & chrts
+187,pearce  barry,4,"pearce, barry"
+188,perez  eugenio,4,"perez, eugenio"
+189,personnel issues,10,personnel issues
+190,piper  greg,4,"piper, greg"
+191,prc,8,prc
+192,2000 assoc mid year,10,2000 assoc mid year
+193,2000 mid year,10,2000 mid year
+194,2000 year end,10,2000 year end 
+195,2000 year end,10,2000 year end
+196,2001 assoc mid year,10,2001 assoc mid year
+197,2001 mid year prc,10,2001 mid year prc
+198,assoc 2000 ye,2,assoc 2000 ye
+199,promotions,10,promotions
+200,prudency,3,prudency
+201,pulp  paper  lumber,7,"pulp,paper,lumber"
+202,schultz  cassandra,2,"schultz, cassandra"
+203,recruiting,10,recruiting
+204,reeves  leslie,4,"reeves, leslie"
+205,restricted list,1,restricted list
+206,resumes,1,resumes
+207,schedule c,2,schedule c
+208,scribner  james,4,"scribner, james"
+209,shankman  jeff,4,"shankman, jeff"
+210,showstopper rpt,2,showstopper rpt
+211,solmonson  mary,4,"solmonson, mary"
+212,south america,5,south america
+213,surveys,1,surveys
+214,systems problems,3,systems problems
+215,unfinaled invoices,1,unfinaled invoices
+216,unify,3,unify
+217,unread,1,unread mail
+218,visions  values,10,visions & values
+219,white  stacey,4,"white, stacey"
+220,wilson  shona,4,"wilson, shona"
+221,wire signer list,1,wire signer list
+222,y2k,2,y2k
+223,large messages,1,large messages
+224,acctg  2001 new accctg sys,3,acctg - 2001 new accctg sys
+225,acctg  customer issues billing,3,acctg - customer issues on billing
+226,acctg  invoicing info,1,acctg - invoicing info
+227,acctg  measurement issues,3,acctg - measurement issues
+228,budget  2001,3,budget - 2001
+229,budget  2002,3,budget - 2002
+230,carlton resolution,2,carlton resolution
+231,christmas cards list,1,christmas cards list
+232,customer  alliant,3,customer - alliant
+233,customer  ena,2,customer - ena
+234,customer  midam,3,customer - midam
+235,customer  oneok,3,customer - oneok
+236,customer  reliant retail energy minneapolis,3,customer - reliant retail energy minneapolis
+237,customer  uses,3,customer - uses
+238,customer  virginia powerdominion,2,customer - virginia power/dominion
+239,daily updates  12101,1,daily updates - 12/1/01
+240,demarc allocation,3,demarc allocation
+241,donna,4,donna
+242,dra info,4,dra info
+243,ibuyit information,1,ibuyit information
+244,ipayit information,1,ipayit information
+245,itineraryoff duty,2,itinerary/off duty
+246,meetings  general,3,meetings - general
+247,meetings  nng customer mtg,3,meetings - nng customer mtg
+248,meetings  tw customer,2,meetings - tw customer
+249,meetings,1,meetings
+250,merger dynegy,3,merger with dynegy
+251,nbpl information,1,nbpl information
+252,nng  sba,2,nng - sba
+253,nng  sla settlement,2,nng - sla settlement
+254,outbox,1,outbox
+255,outlook instructions,3,outlook instructions
+256,personnel  advance hire assoc,10,personnel - advance hire assoc
+257,personnel  ava s duties,10,personnel - ava's duties
+258,personnel  paa,10,personnel - paa
+259,personnel  prc 2001 mid yr,10,personnel - prc 2001 mid yr
+260,personnel  prc 2001 year end,10,personnel - prc 2001 year end
+261,personnel  promotions,10,personnel - promotions
+262,personnel  shift differential,10,personnel - shift differential
+263,personnel  working home,10,personnel - working from home
+264,print,1,print
+265,reports  scheduled quantity report,1,reports - scheduled quantity report
+266,shipper list,1,shipper list
+267,storage  alloc process,3,storage - alloc process
+268,storage  third party storage info,1,storage - third party storage info
+269,training  2001,10,training - 2001
+270,training  business objects,10,training - business objects
+271,tropical storm allison,0,tropical storm allison
+272,tw  citizens agreement,2,tw - citizens agreement
+273,tw  imbalances  nettingtrading,2,tw - imbalances & netting/trading
+274,tw  invoicing,2,tw - invoicing
+275,tw  marketing,2,tw - marketing
+276,tw  negotiated rates issues,3,tw - negotiated rates issues
+277,tw  nwpl budget,2,tw - nwpl budget
+278,tw  procedures,2,tw - procedures
+279,tw  socal window procedure,2,tw - socal window procedure
+280,tw  transactional requirements,2,tw - transactional requirements
+281,vacations 2001,10,vacations 2001
+282,weekly reports  2001,1,weekly reports - 2001
+283,contract,3,contract
+284,john memos,4,john memos
+285,misc,4,misc
+286,connect deletes,1,connect deletes
+287,helsinki,5,helsinki
+288,2000 goals objectives,3,2000 goals and objectives
+289,2001 goals objectives,3,2001 goals and objectives
+290,atoka 3 cs,2,atoka 3 c_s
+291,bloomfield cs,2,bloomfield c_s
+292,cs  6 remediation,2,c_s no. 6 remediation
+293,cs  6 remediation,2,c/s no. 6 remediation
+294,cs  9 remediation,2,c_s no. 9 remediation
+295,diamonds,0,diamonds
+296,eott due diligence,3,eott due diligence
+297,eott midland,2,eott midland
+298,et contacts,1,et contacts
+299,et,8,et
+300,cge,2,cge
+301,euncietexaco remediation,3,euncie_texaco remediation
+302,g robinson,4,g. robinson
+303,gomez remediation,2,gomez remediation
+304,importantstuff,1,importantstuff
+305,john shafer,4,john shafer
+306,la plata cs,8,la plata c_s
+307,lockridge remediation,3,lockridge remediation
+308,marc phillips,4,marc phillips
+309,miscellaneous,2,miscellaneous 
+310,miscellaneous,2,miscellaneous
+311,ngo s,2,ngo's
+312,njn,2,njn
+313,north crawar remediation,7,north crawar remediation
+314,npdes stormwater,7,npdes stormwater
+315,nsps turbines,7,nsps for turbines
+316,nyiso,2,nyiso
+317,ocd,2,ocd
+318,p1 cs nov,8,p-1 c_s nov
+319,pcb modeling study,3,pcb modeling study
+320,pcb s,2,pcb's
+321,personnal,2,personnal
+322,pfg,2,pfg
+323,pg  e meetings notes,2,pg&e meetings and notes
+324,pg  e pcbs,2,pg&e pcbs
+325,public water systems,7,public water systems
+326,puckett plant,7,puckett plant
+327,redrock mainline expansion,7,redrock mainline expansion
+328,rocky mountain elk foundation,0,rocky mountain elk foundation
+329,socal pcb s,2,socal pcb's
+330,southwest environmental team,7,southwest environmental team
+331,southwest gas pcb s,7,southwest gas pcb's
+332,sundevil pipeline project,7,sundevil pipeline project
+333,weekly activity report,1,weekly activity report
+334,amerex,2,amerex
+335,broker quotes,1,broker quotes
+336,koch,2,koch
+337,bankruptcy,3,bankruptcy
+338,daishowa,2,daishowa
+339,data protection,3,data protection
+340,ei execs,8,ei execs
+341,ethicsljmnotre dame,2,ethics/ljm/notre dame
+342,garden state paper,0,garden state paper
+343,general research,3,general research
+344,hr risk management,10,hr risk management
+345,ibuyit,2,ibuyit
+346,dlr,2,dlr
+347,meeting invitesconfirms,2,meeting invites/confirms
+348,meeting invitesconfirms,2,meeting invites_confirms
+349,labor resumes,1,labor resumes
+350,msa revisions,2,msa revisions
+351,nform,2,n-form
+352,organizational announcements,3,organizational announcements
+353,outlook migration,3,outlook migration
+354,phone lists,1,phone lists
+355,play group,2,play group
+356,project 50,7,project 50
+357,resumes recruiting,1,resumes for recruiting
+358,star wars,2,star wars
+359,scorman  nonprivileged ,2,scorman (non-privileged)
+360,communications,3,communications
+361,archives  post revised order,1,archives - post revised order
+362,archives,1,archives
+363,old messages,1,old messages
+364,budget,3,budget
+365,kidsave,2,kidsave
+366,measurement,3,measurement
+367,naesb,2,naesb
+368,oneok,2,oneok
+369,tw neg rates,2,tw neg rates
+370,twdatarequests,2,twdatarequests
+371,vacation schedules,1,vacation schedules
+372,ingaastudy,2,ingaastudy
+373,marketingaffiliate,2,marketingaffiliate
+374,osha,2,osha
+375,ferc,2,ferc
+376,regulatory,6,regulatory
+377,rto west,2,rto west
+378,rto,2,rto
+379,ubs,2,ubs
+380,10 fantasy,2,10 fantasy
+381,requests,1,requests
+382,12 fantasy,2,12 fantasy
+383,bernhardt,2,bernhardt
+384,ab 1890 group,2,ab 1890 group
+385,administrative,1,administrative
+386,benefits,10,benefits
+387,billing issues,3,billing issues
+388,boomerang,0,boomerang
+389,california crisis  press,5,california crisis--press
+390,california crisis,5,california crisis
+391,cfee,2,cfee
+392,commercial opportunities task force,3,commercial opportunities task force
+393,cross border task force,3,cross border task force
+394,csu fresno,10,csu fresno
+395,data,1,data
+396,distributed generation,2,distributed generation
+397,eci,2,eci
+398,edson,2,edson
+399,edwards air force,10,edwards air force
+400,energymarketplace,2,energymarketplace
+401,gas accord,7,gas accord
+402,general rate case  ,3,general rate case(s)
+403,gspp conference,2,gspp conference
+404,direct access battle,3,direct access battle
+405,interconnection,7,interconnection
+406,jennifer,4,jennifer
+407,legislation,6,legislation
+408,magruder,2,magruder
+409,market structure task force,3,market structure  task force
+410,mba  accounting,10,mba--accounting
+411,mba  advanced finance,10,mba--advanced finance
+412,mba  analysis financial information,10,mba--analysis of financial information
+413,mba  ecommerce,10,mba--e-commerce
+414,mba  finance study group,10,mba--finance study group
+415,mba  finance,10,mba--finance
+416,mba  financial reporting,10,mba--financial reporting
+417,mba  macroeconomics,10,mba--macroeconomics
+418,mba  managerial accting,10,mba--managerial accting
+419,mba  marketing,10,mba--marketing
+420,mba  mpar,10,mba--mpar
+421,mba  quant,10,mba--quant
+422,mba program,10,mba program
+423,mexico,5,mexico
+424,natural gas strategy,7,natural gas strategy
+425,ofos,2,ofos
+426,pg  e hydro sale,2,pg&e hydro sale
+427,pg  e pbr,2,pg&e pbr
+428,renewables,7,renewables
+429,resco,2,resco
+430,risk analytics,3,risk analytics
+431,roseman creek,0,roseman creek
+432,speeches,1,speeches
+433,telecom,3,telecom
+434,water,7,water
+435,wptf,2,wptf
+436,2 trash,2,2 trash
+437,candis,2,candis
+438,charles,5,charles
+439,accting,2,accting
+440,church,0,church
+441,dana s extras,2,dana's extras
+442,family,2,family
+443,fyi,4,fyi
+444,finanial operations,3,finanial operations
+445,friends,1,friends
+446,fun,1,fun
+447,cash,3,cash
+448,global counterpary,3,global counterpary
+449,new job,10,new job
+450,review,10,review
+451,wells,7,wells
+452,performance review,10,performance review
+453,save date,2,save the date
+454,vacation,1,vacation
+455,vargas becton lamb galvan,2,vargas becton lamb galvan
+456,vargas becton lamb,2,vargas becton lamb
+457,info,1,info
+458,info2,1,info2
+459,info3,1,info3
+460,corpgen,2,corpgen
+461,leg conf topics,2,leg conf topics
+462,pictures,1,pictures
+463,junk file,1,junk file
+464,move stuff,1,move stuff
+465,bids  offers,3,bids & offers
+466,ces,8,ces
+467,cleburne plant   cornhusker ,2,"cleburne plant - ""cornhusker"""
+468,contracts,3,contracts
+469,cornhusker,2,cornhusker
+470,performance,10,performance
+471,enron news,2,enron news
+472,first delivery,3,first delivery
+473,frontera,9,frontera
+474,hpl sale,2,hpl sale
+475,industrials,3,industrials
+476,logistics,3,logistics
+477,pan energy swap,7,pan energy swap
+478,pipelines,7,pipelines
+479,sitara,2,sitara
+480,storage,7,storage
+481,term proposals,3,term proposals
+482,transport,7,transport
+483,tufco,2,tufco
+484,volume management,3,volume management
+485,waha,2,waha
+486,wellhead,7,wellhead
+487,current estimate,3,current estimate
+488,felecia fitzgerald,2,felecia fitzgerald
+489,favorites,2,favorites
+490,cfp,2,cfp
+491,clean fuels,7,clean fuels
+492,datek,2,datek
+493,et ,8,et&s
+494,gpg ops,2,gpg ops
+495,gpg,2,gpg
+496,adaytum,2,adaytum
+497,azurix,2,azurix
+498,pge,2,pge
+499,nbpl,2,nbpl
+500,rc 0946,2,rc 0946
+501,tracy,4,tracy
+502,tw,8,tw
+503,appala,2,appala
+504,bankrupt,3,bankrupt
+505,aapending,2,aa____pending
+506,cleburnelone star,2,cleburne/lone star
+507,enbridge,2,enbridge
+508,enron compressor services,7,enron compressor services
+509,juniper,0,juniper
+510,midland cogen,7,midland cogen
+511,process,3,process
+512,reliantentex,2,reliant-entex
+513,sempra,2,sempra
+514,talldominion,2,tall_dominion
+515,tdc energy,7,tdc energy
+516,appalachain,0,appalachain
+517,centana storage,2,centana storage
+518,colorado intrastate,5,colorado intrastate
+519,columbia gasgulf,7,columbia gas/gulf
+520,dominion,0,dominion
+521,el paso,8,el paso
+522,ena upstream,2,ena upstream
+523,gulf south,7,gulf south
+524,iroquois,0,iroquois
+525,mrt,2,mrt
+526,national fuel,7,national fuel
+527,ngpl,2,ngpl
+528,northern border,7,northern border
+529,password,1,password
+530,sonat,2,sonat
+531,tennessee,5,tennessee
+532,trailblazer,2,trailblazer
+533,transco,2,transco
+534,transwestern,2,transwestern
+535,union gas,7,union gas
+536,book issues,1,book issues
+537,calphopewell,2,calp_hopewell
+538,ces pending,8,ces pending
+539,ces resolved,8,ces resolved
+540,insideferc,2,insideferc
+541,memos,1,memos
+542,new power,7,new power
+543,florida issues,5,florida issues
+544,ogelthorpe,2,ogelthorpe
+545,pending,3,pending
+546,kingdom,0,kingdom
+547,systems,3,systems
+548,takeover,3,takeover
+549,traderr tools,2,traderr tools
+550,vng,2,vng
+551,whatever,2,whatever
+552,fpl,2,fpl
+553,loaddata,2,loaddata
+554,mexppa,2,mex-ppa
+555,origination,3,origination
+556,pricing,3,pricing
+557,puc,2,puc
+558,qse,2,qse
+559,recs,4,recs
+560,expenses,3,expenses
+561,need read,1,need to read
+562,old,2,old
+563,old,2,old inbox
+564,ace,2,ace
+565,belden,2,belden
+566,black hills,0,black hills
+567,blotter,1,blotter
+568,chase mahstone,2,chase mah_stone
+569,clickathome,2,clickathome
+570,compression services,3,compression services
+571,con ed,8,con ed
+572,continental,0,continental
+573,coop city,0,coop city
+574,cqg,2,cqg
+575,credit,3,credit
+576,day rate,3,day rate
+577,design,3,design
+578,dsc,2,dsc
+579,east coast power,7,east coast power
+580,ebay,4,ebay
+581,enron updates,1,enron updates
+582,ft pierce,2,ft. pierce
+583,golf,0,golf
+584,grupo chihuahua,2,grupo chihuahua
+585,ice,0,ice
+586,indeck corinth,2,indeck corinth
+587,insurance call spread,3,insurance call spread
+588,market,3,market
+589,oman supply,7,oman supply
+590,supply,7,supply
+591,mahonia,0,mahonia
+592,marsh usa,5,marsh usa
+593,mesa,0,mesa
+594,monterrey office,2,monterrey office
+595,national steel,7,national steel
+596,new,2,new items
+597,newpower,2,newpower
+598,offshore processing,7,offshore processing
+599,oyster creek,0,oyster creek
+600,perfomance evaluation,10,perfomance evaluation
+601,personal contacts,1,personal contacts
+602,position,3,position
+603,preston vpp,2,preston vpp
+604,business,3,business
+605,producer services,3,producer services
+606,pseg,2,pseg
+607,research,3,research
+608,skew,3,skew
+609,stock options,3,stock options
+610,system wip,2,system wip
+611,taxes,3,taxes
+612,trading,3,trading
+613,volatility,3,volatility
+614,vpp,2,vpp
+615,brazos lp,2,brazos lp
+616,accomplishments,1,accomplishments
+617,albertappas,2,albertappas
+618,arcor,2,arcor
+619,art,0,art
+620,bear,0,bear
+621,brazilian arbitration,5,brazilian arbitration
+622,brazostenaska,2,brazos_tenaska
+623,cftc,2,cftc
+624,chinesewallspolicy,2,chinesewallspolicy
+625,cuiaba,2,cuiaba
+626,dabhol,2,dabhol
+627,eecc,2,eecc
+628,enron net works,3,enron net works
+629,fuel,7,fuel
+630,globalassets,7,globalassets
+631,360network,2,360network
+632,eesproducts,2,ees/products
+633,directaccess,2,directaccess
+634,msu,2,msu
+635,negctc,2,negctc
+636,pg  eplanofreorg,2,pg&eplanofreorg
+637,isda,6,isda
+638,lexisid,2,lexisid
+639,mehpictures,2,mehpictures
+640,municipalities,7,municipalities
+641,newpowernoncompete,2,newpowernoncompete
+642,organizationalchanges,1,organizationalchanges
+643,performancematters,1,performancematters
+644,policies,10,policies
+645,powercontracts,7,powercontracts
+646,powersystems,7,powersystems
+647,riskmemos,1,riskmemos
+648,riskratings,2,riskratings
+649,sempre,2,sempre
+650,southamerica,5,southamerica
+651,stanley,4,stanley
+652,technologyplan,2,technologyplan
+653,toptenrisks,2,toptenrisks
+654,tva,2,tva
+655,vitro,2,vitro
+656,accounting,3,accounting
+657,action,2,action items in
+658,evaluations,10,evaluations
+659,2000,3,2000
+660,personnel paa,10,personnel paa
+661,goals 2000,3,goals 2000
+662,hold,2,hold
+663,old sent,1,old sent
+664,older 30,2,older than 30
+665,planning,3,planning
+666,projects,3,projects
+667,acceptances,3,acceptances
+668,acquisitions,3,acquisitions
+669,asset council,3,asset council
+670,ballet,0,ballet
+671,credit agreementmerger related,3,credit agreement/merger related
+672,cristobal,2,cristobal
+673,egas,2,egas
+674,finance,3,finance
+675,lng  global ,2,lng (global)
+676,market services,3,market services
+677,nng,2,nng
+678,personnel,10,personnel
+679,portland general,9,portland general
+680,project fremont,7,project fremont
+681,project notre dame,7,project notre dame
+682,risk,3,risk
+683,wessex,2,wessex
+684,wind,7,wind
+685,vacations,1,vacations
+686,brokerage agreements,3,brokerage agreements
+687,master netting,0,master netting
+688,24hr power,2,24-hr power
+689,southeast legal,7,southeast legal
+690,counterparty names,3,counterparty names
+691,daily blessings,1,daily blessings
+692,jrhernandez,4,jrhernandez
+693,judy,4,judy
+694,corp memos,1,corp memos
+695,atoka lateral,2,atoka lateral
+696,trails,0,so trails
+697,enron kids,2,enron kids
+698,market intel,3,market intel
+699,cars,7,cars
+700,pswds,2,pswds
+701,power conf,2,power conf
+702,gomez,4,gomez
+703,mckinley,0,mckinley
+704,sun devil,7,sun devil
+705,tsunami,7,tsunami
+706,training,3,training
+707,capacity marketing,3,capacity marketing
+708,market team,3,market team
+709,red rock,0,red rock
+710,gas,7,gas
+711,alabama gas corp,2,alabama gas corp
+712,brazos,2,brazos
+713,cage,0,cage
+714,calpine,2,calpine
+715,chicago office,5,chicago office
+716,cps,2,cps
+717,crestar,2,crestar
+718,denver,5,denver
+719,dynegy,2,dynegy
+720,engage,3,engage
+721,enovate,2,enovate
+722,fosterward,2,foster_ward
+723,gre,8,gre
+724,gtcs,2,gtcs
+725,guadalupe,2,guadalupe
+726,hilcorp,2,hilcorp
+727,hpl customers,3,hpl customers
+728,ormet,2,ormet
+729,palo alto,0,palo alto
+730,peak,7,peak
+731,pg  e,2,pg&e
+732,sacramento,5,sacramento
+733,sithe,2,sithe
+734,southern,7,southern
+735,westvaco,2,westvaco
+736,wisconsin,5,wisconsin
+737,asset group,3,asset group
+738,cle,8,cle
+739,confidentiality,1,confidentiality
+740,parking,0,parking
+741,triplelux,2,triple-lux
+742,truequote,2,truequote
+743,power projects,7,power projects
+744,dom rep,5,dom rep
+745,guatemala,2,guatemala
+746,master notice,2,master notice
+747,online trading,3,online trading
+748,trading issues,3,trading issues
+749,audit,3,audit
+750,eneect,2,ene/ect
+751,eneect,2,ene_ect
+752,management,3,management
+753,techmemos,2,techmemos
+754,cera,2,cera
+755,conferences,1,conferences
+756,consultants,3,consultants
+757,duffie,2,duffie
+758,ei,8,ei
+759,esai,2,esai
+760,evaluation,10,evaluation
+761,fasb133,2,fasb133
+762,london,5,london
+763,newsletter,1,newsletter
+764,pjm,2,pjm
+765,poland,5,poland
+766,publications,1,publications
+767,rac,8,rac
+768,rice,0,rice
+769,sites,1,sites
+770,stanford,8,stanford
+771,technical,3,technical
+772,uh,8,uh
+773,universities,10,universities
+774,untitledmartin,2,untitledmartin
+775,ut,8,ut
+776,weather,7,weather
+777,aadepartment,2,aadepartment
+778,advertising,3,advertising
+779,advisory board electricity environment,3,advisory board on electricity and the environment
+780,affiliate rules,3,affiliate rules
+781,africa,5,africa
+782,enron accelerator,7,enron accelerator
+783,analyst associate program,10,analyst associate program
+784,analyst meeting 2001,3,analyst meeting 2001
+785,annual report,3,annual report
+786,antitrust,3,antitrust
+787,untitled,2,untitled
+788,arena,3,arena
+789,argentina,5,argentina
+790,asset sales,3,asset sales
+791,attachments,1,attachments
+792,aviation,7,aviation
+793,bpa,2,bpa
+794,bush transition,0,bush transition
+795,bush,0,bush
+796,business council,3,business council
+797,california  demand buydown,5,california - demand buydown
+798,california  emergency authority,5,california - emergency authority
+799,california  excess profits tax,3,california - excess profits tax
+800,california  working group,5,california - working group
+801,california campaign,5,california campaign
+802,california humor,5,california humor
+803,californiapg  e bankruptcy,3,california-pg&e bankruptcy
+804,ballot initiative,3,ballot initiative
+805,caliornia  investigations,5,caliornia - investigations
+806,campaign 2000,3,campaign 2000
+807,canada,5,canada
+808,cec conference,2,cec conference
+809,compensation benefits,3,compensation and benefits
+810,contact list,1,contact list
+811,contributions,3,contributions
+812,corporate communications,3,corporate communications
+813,corporate responsibility,6,corporate responsibility
+814,cost controls,3,cost controls
+815,councilforeignrelations,2,councilforeignrelations
+816,crisis,3,crisis 
+817,cuiba,2,cuiba
+818,market structure,3,market structure
+819,press,1,press
+820,disclosure rules,3,disclosure rules
+821,dod,8,dod
+822,dynegy transaction,3,dynegy transaction
+823,earnings releases,3,earnings releases
+824,ebr,2,ebr
+825,ebs redeployment,3,ebs redeployment
+826,electricity restructuring advisory group,3,electricity restructuring advisory group
+827,emerson,2,emerson
+828,enron advisonry council,6,enron advisonry council
+829,enron communications,3,enron communications
+830,enron credit,3,enron credit
+831,enron global markets,3,enron global markets
+832,enron litigation,6,enron litigation
+833,enron mentions,2,enron mentions
+834,enron online summary,1,enron online summary
+835,enron property services,3,enron property services
+836,enrononline,3,enrononline
+837,environment  montreal,5,environment - montreal
+838,environmental issues,3,environmental issues
+839,experience enron,3,experience enron
+840,facilities services,3,facilities services
+841,federal emergency,3,federal emergency
+842,federal legislation,6,federal legislation
+843,fire chief,3,fire chief
+844,florida,5,florida
+845,fuel cells,7,fuel cells
+846,goals objectives 1999,3,goals and objectives 1999
+847,gore,2,gore
+848,government affairs group reports,6,government affairs group reports
+849,governor davis meeting,6,governor davis meeting
+850,greenhouse gas business,7,greenhouse gas business
+851,heat wave,7,heat wave
+852,houston,5,houston
+853,hrdata,1,hr-data
+854,hr stats,4,hr stats
+855,humor,1,humor
+856,illinois,5,illinois
+857,integration  team,3,integration - team
+858,internal communications,3,internal communications
+859,international,3,international
+860,internet sites,1,internet sites
+861,iowa,5,iowa
+862,iso,8,iso
+863,junk,1,junk mail
+864,junk,1,junk
+865,knowledge management,3,knowledge management
+866,korea,5,korea
+867,ljm,2,ljm
+868,management conference,3,management conference
+869,mckinsey project,7,mckinsey project
+870,mergers,3,mergers
+871,metals,7,metals
+872,michigan,5,michigan
+873,military privatizations,3,military privatizations
+874,mit,8,mit
+875,mtbe,2,mtbe
+876,nacec,2,nacec
+877,nerc,2,nerc
+878,new york,5,new york
+879,nonus offices,2,non-us offices
+880,ofccp audit,3,ofccp audit
+881,ohio,5,ohio
+882,opic,2,opic
+883,organization,3,organization
+884,pac,4,pac
+885,pennsylvania,5,pennsylvania
+886,performance management,3,performance management
+887,pipeline issues,7,pipeline issues
+888,position papers,1,position papers
+889,pr  notre dame,8,pr - notre dame
+890,prcrisis management,3,pr-crisis management
+891,project california,5,project california
+892,project summer,7,project summer
+893,puhca,2,puhca
+894,rail,7,rail
+895,redeployment,3,redeployment
+896,reg risk,6,reg risk
+897,reports,1,reports
+898,republican leadership,3,republican leadership
+899,resource management,3,resource management
+900,resume,1,resume
+901,sec,8,sec
+902,security,3,security
+903,senate testimony california,6,senate testimony re california
+904,southern cone,0,southern cone
+905,staff meeting,3,staff meeting
+906,survey,3,survey
+907,tax issues,3,tax issues
+908,texas,5,texas
+909,thank yous,4,thank yous
+910,trade issues,3,trade issues
+911,transition guide,3,transition guide
+912,transportation market,3,transportation market
+913,transredes,2,transredes
+914,turkey,0,turkey
+915,ui,8,ui
+916,uniform business rules,3,uniform business rules
+917,unions,6,unions
+918,university relations,10,university relations
+919,updates,1,updates
+920,vision values,10,vision and values
+921,vision,10,vision
+922,washington office,6,washington office
+923,west virginia,5,west virginia
+924,western governors,7,western governors
+925,working groups,3,working groups
+926,world bank,3,world bank
+927,wto,2,wto
+928,asset marketing,3,asset marketing
+929,board,3,board
+930,business plans,3,business plans
+931,culture,10,culture
+932,data room,1,data room
+933,earnings,3,earnings
+934,east power,7,east power
+935,eim,2,eim
+936,esvl,2,esvl
+937,julie,4,julie
+938,mrha,2,mrha
+939,ooc,2,ooc
+940,netco agreements,6,netco agreements
+941,netco canada,2,netco canada
+942,netco credit,3,netco credit
+943,netco eol,2,netco eol
+944,netco estate,2,netco estate
+945,netco hr,2,netco hr
+946,netco,2,netco it
+947,netco,2,netco
+948,netco legal,2,netco legal
+949,netco portland,2,netco portland
+950,netco reg,2,netco reg
+951,netco restart,2,netco restart
+952,portland,4,portland
+953,press1,2,press1
+954,restructuring,3,restructuring
+955,sec media,6,sec media
+956,tammie,2,tammie
+957,tax,3,tax
+958,tech services,3,tech services
+959,turbines,7,turbines
+960,vp prc,2,vp prc
+961,hedgefunds,3, hedgefunds
+962,analystassociate,10,analyst/associate
+963,coal,7,coal
+964,comp,2,comp
+965,controls,3,controls
+966,ecr,2,ecr
+967,jean,2,jean
+968,phone numbers,1,phone numbers
+969,powereast,7,powereast
+970,powerwest,7,powerwest
+971,pulp,7,pulp
+972,elizabeth,4,elizabeth
+973,enron,9,enron
+974,sec panel,6,sec panel
+975,mlokay  nonprivileged ,2,mlokay (non-privileged)
+976,articles,1,articles
+977,corporate,3,corporate
+978,enron ,9,enron t&s
+979,enron travel club,3,enron travel club
+980,heanesa,2,hea_nesa
+981,heanesa,2,hea/nesa
+982,kim s files,4,kim's files
+983,lorraine s files,1,lorraine's files
+984,twcommercial group,2,tw-commercial group
+985,sandy,0,sandy
+986,accomplish,3,accomplish
+987,central desk class regis ,2,central desk class regis.
+988,central,7,central
+989,east desk,0,east desk
+990,ontario oa,5,ontario oa
+991,ontario,5,ontario 
+992,risk management,3,risk management
+993,west,7,west
+994,asset management documents,3,asset management documents
+995,blue dog,0,blue dog
+996,co op city,2,co op city
+997,coral,0,coral
+998,ema s,4,ema's
+999,ge general,9,ge general
+1000,general stuff,1,general stuff
+1001,haywood,2,haywood
+1002,lm6000,2,lm6000
+1003,midway,0,midway
+1004,new jersey natural,0,new jersey natural
+1005,nimo,2,nimo
+1006,nrg,2,nrg
+1007,balance sheetform contracts,3,off balance sheet_form contracts
+1008,balance sheetform contracts,3,off balance sheet/form contracts
+1009,panda,0,panda
+1010,policy manual united way,3,policy manual and united way
+1011,power purchaseeei,2,power purchase_eei
+1012,power purchaseeei,2,power purchase/eei
+1013,vepco,2,vepco
+1014,westinghouse,2,westinghouse
+1015,yazoo city,2,yazoo city
+1016,tom s docs,4,tom's docs
+1017,2001 objectives,3,2001 objectives
+1018,2001 prc ets mid year,10,2001 prc ets mid year
+1019,2002 budget,3,2002 budget
+1020,alaska gas,7,alaska gas
+1021,asset development,3,asset development
+1022,customers,3,customers
+1023,merger,3,merger
+1024,nbp,2,nbp
+1025,stupid things,1,stupid things
+1026,transpecos,2,transpecos
+1027,weekly bullets,1,weekly bullets
+1028,art committee,3,art committee
+1029,atlantis,2,atlantis
+1030,bergseiker,2,bergseiker
+1031,crude products,7,crude and products
+1032,dpc lng,2,dpc lng
+1033,enhome,2,enhome
+1034,enroncreditcom,3,enroncredit.com
+1035,first gas,7,first gas
+1036,freight,7,freight
+1037,garcia munte,4,garcia munte
+1038,gaza,4,gaza
+1039,house  new,2,house - new
+1040,house,0,house
+1041,i2,3,i2
+1042,insurancerisk,3,insurance_risk
+1043,investments,3,investments
+1044,jblock,2,jblock
+1045,jdf,2,jdf
+1046,julie ferrara,4,julie ferrara
+1047,middle east,0,middle east
+1048,misc tw,4,misc tw
+1049,admin assist,1,admin assist
+1050,misc vod,4,misc vod
+1051,bell south,0,bell south
+1052,gamesmusic,2,games/music
+1053,switchpoint,2,switchpoint
+1054,org  announc ,2,org. announc.
+1055,ou,8,ou
+1056,project dolphin,0,project dolphin
+1057,project grandslam,7,project grandslam
+1058,project jose,7,project jose
+1059,project sato,7,project sato
+1060,project springbok,0,project springbok
+1061,puerto rico,5,puerto rico
+1062,america,5,s america
+1063,saudi arabia project,7,saudi arabia project
+1064,supply chain,7,supply chain
+1065,synfuel,7,synfuel
+1066,transamonia,2,transamonia
+1067,aquila,7,aquila
+1068,astra,9,astra
+1069,conoco,2,conoco
+1070,lonestar,2,lonestar
+1071,pepl,2,pepl
+1072,us gypsum,7,us gypsum
+1073,usgt,2,usgt
+1074,agave tie,0,agave tie in
+1075,misc tie ins,4,misc tie ins
+1076,southern trails,0,southern trails
+1077,trans pecos,2,trans pecos
+1078,vision  values,10,vision & values
+1079,webmodal,2,webmodal
+1080,ne development,2,ne development
+1081,perfmgmt,2,perfmgmt
+1082,pipeinfo,7,pipeinfo
+1083,pipeline info,7,pipeline info
+1084,quotes,1,quotes
+1085,printed,1,not printed
+1086,recuriting,10,recuriting
+1087,retail,3,retail
+1088,ubs warburg,2,ubs warburg
+1089,ubswenergycom,2,ubswenergy.com
+1090,eol  tagg,2,eol & tagg
+1091,gossett,2,gossett
+1092,greg couch,4,greg couch
+1093,monthly pma s,2,monthly pma's
+1094,prepays  structured deals,3,prepays&structured deals
+1095,corp infoannouncements,1,corp info_announcements
+1096,corp infoannouncements,1,corp info/announcements
+1097,monthly dpr adjustments,3,monthly dpr adjustments
+1098,personal stuff,1,personal stuff
+1099,security request,3,security request
+1100,ene houston,5,ene houston
+1101,west gas,7,west gas
+1102,fundies,4,fundies
+1103,middle market,3,middle market
+1104,risk reports,3,risk reports
+1105,bug,0,bug
+1106,lrcbridgeline,2,lrc_bridgeline
+1107,prcassmid00,2,prc_ass.mid00
+1108,ca data sheet checks,1,ca data sheet checks
+1109,email,1,e-mail 
+1110,email,1,email
+1111,new normal dot,2,new normal dot
+1112,richardson s,4,richardson's
+1113,temporary export certificates,3,temporary export certificates
+1114,junk email,1,junk e-mail
+1115,presto files,1,presto files
+1116,presto working files,1,presto working files
+1117,assocanalyst,10,assoc/analyst
+1118,assocanalyst,10,assoc_analyst
+1119,ees 2ways,2,ees 2-ways
+1120,personal files,1,personal files
+1121,exchangeinfo,3,_exchange_info
+1122,exchangepos,3,_exchange_pos
+1123,exchange,3,_exchange
+1124,bmr,8,bmr
+1125,carr,4,carr
+1126,fin desk,0,fin desk
+1127,ina,8,ina
+1128,midmarket,3,mid-market
+1129,myfriends,2,myfriends
+1130,kq  dq,8,kq / dq
+1131,hr info,10,hr info
+1132,marketing affiliate,3,marketing affiliate
+1133,jay s saved stuff,4,jay's saved stuff
+1134,exmerge  richey  cooper,2,"exmerge - richey, cooper"
+1135,administrivia,1,administrivia
+1136,alberta,5,alberta
+1137,wx,4,wx
+1138,houstonfundamentals,7,houstonfundamentals
+1139,hydro,7,hydro
+1140,infrastructure,7,infrastructure
+1141,marks,2,marks
+1142,r,8,r
+1143,software,3,software
+1144,trading quotes,1,trading quotes
+1145,eesideleteddocuments,2,eesi_deleted_documents
+1146,eesidealsgsaregion1,2,eesidealsgsaregion1
+1147,eesiisonewengland,2,eesiisonewengland
+1148,eesiisonewyork,2,eesiisonewyork
+1149,eesiisopjm,2,eesiisopjm
+1150,eesimarketstexas,2,eesimarketstexas
+1151,eesiphysicalpowerdelivery,2,eesiphysicalpowerdelivery
+1152,eesirenewableenergy,2,eesirenewableenergy
+1153,eesiresponsesrfp,2,eesiresponsesrfp
+1154,personalfolder,2,personalfolder
+1155,dublin,5,dublin
+1156,file,1,file
+1157,israel estrada,2,israel estrada
+1158,caledonia,2,caledonia
+1159,ctgdeals,2,ctg-deals
+1160,enron bike club,0,enron bike club
+1161,erc,8,erc
+1162,fplgenco,2,fpl-genco
+1163,gencojvipo,2,genco-jv/ipo
+1164,gencojvipo,2,genco-jv_ipo
+1165,genco,7,genco
+1166,kn energy,7,kn energy
+1167,motley fool emails,1,motley fool e-mails
+1168,teco,2,teco
+1169,texas bschool,10,texas b-school
+1170,trading info,1,trading info
+1171,alliance,3,alliance
+1172,company options,3,company options
+1173,emailaddresses,2,emailaddresses
+1174,enrondynegy,2,enron/dynegy
+1175,eol rqsts,2,eol rqsts
+1176,eolml7,2,eolml7
+1177,expense system,3,expense system
+1178,gas deals,7,gas deals
+1179,michcon,2,michcon
+1180,ml7 eol product,2,ml7 eol product
+1181,nov00mar01 deals,3,nov00-mar01 deals
+1182,rotation,3,rotation
+1183,vector,2,vector
+1184,ees matters,2,ees matters
+1185,elizabeth sager,4,elizabeth sager
+1186,enron  general,3,enron - general
+1187,epmi  power,2,epmi - power
+1188,sager  general,2,sager - general
+1189,holden s,4,holden's
+1190,read,1,read
+1191,agencycom,2,agency.com
+1192,annex 5,2,annex 5
+1193,bastos,2,bastos
+1194,bidask,2,bid/ask
+1195,bidask1,2,bid/ask1
+1196,duke,0,duke
+1197,longview,2,longview
+1198,nsm,2,nsm
+1199,doj grynberg quinque,2,doj_ grynberg_ quinque
+1200,ecogas,7,ecogas
+1201,ees neg ctc,8,ees neg ctc
+1202,gleason  sound,2,gleason--sound
+1203,heofintrust,2,heof_intrust
+1204,infineum,2,infineum
+1205,iso pricecaps,3,iso_ pricecaps
+1206,iso pricecaps,3,iso/ pricecaps
+1207,kafus,2,kafus
+1208,monetizationel paso,2,monetization_el paso
+1209,pacific valour,2,pacific valour
+1210,pacific virgo,2,pacific virgo
+1211,pca,2,pca
+1212,personal addresses,1,personal addresses
+1213,beeson,2,beeson
+1214,project stanley,7,project stanley
+1215,px,2,px
+1216,radack,2,radack
+1217,senator dunn inv ,4,senator dunn inv.
+1218,stationery,1,stationery
+1219,tenaska,2,tenaska
+1220,exmerge  scholtes  diana,2,"exmerge - scholtes, diana"
+1221,saved sent,1,saved sent
+1222,fundementals,3,fundementals
+1223,lt contracts,3,lt contracts
+1224,midcolumbia,5,mid-columbia
+1225,policy,3,policy
+1226,scheduling,1,scheduling
+1227,settlements,3,settlements
+1228,stf,8,stf
+1229,current issues,3,current issues
+1230,etag,2,e-tag
+1231,westbank,2,west-bank
+1232,cas,8,cas
+1233,citizens griffith,2,citizens griffith
+1234,outages,7,outages
+1235,mileage expense,3,mileage expense
+1236,phffu,2,phffu
+1237,tw fuel sales,2,tw fuel sales
+1238,tw bullets,2,tw bullets
+1239,tw park  ride,0,tw park & ride
+1240,tw lft,2,tw lft
+1241,tw map,2,tw map
+1242,bammel stg,2,bammel stg
+1243,credit issues,3,credit issues
+1244,hpl sell,2,hpl sell
+1245,correspondence,1,correspondence
+1246,course info,1,course info
+1247,fun emails,1,fun emails
+1248,gir,4,gir
+1249,immediate response,3,immediate response
+1250,important info,1,important info
+1251,mkt affiliate,3,mkt affiliate
+1252,msapinfo,2,msap-info
+1253,order 637,2,order 637
+1254,wk,8,wk
+1255,wordsmith,0,wordsmith
+1256,keep email   ,1,keep all e-mail!!!
+1257,renewable power,7,renewable power
+1258,settlements issues,3,settlements issues
+1259,special,2,special
+1260,stuff,1,stuff
+1261,abramo,2,abramo
+1262,announcements,1,announcements
+1263,arg  deriv  assn ,2,arg. deriv. assn.
+1264,argen  local form,2,argen. local form
+1265,argentina  financial trading,3,argentina - financial trading
+1266,argentina  holidays,5,argentina - holidays
+1267,argentina  phone list,5,argentina - phone list
+1268,argentinaduke dispute,5,argentina-duke dispute
+1269,argentina isda,5,argentina isda
+1270,argentina legal report,3,argentina legal report
+1271,argentinatax,5,argentina-tax
+1272,bailey  ,4,"bailey, s."
+1273,bancone,2,bancone
+1274,blackbird,0,blackbird
+1275,body shop,0,body shop
+1276,boyd,4,boyd
+1277,brazil  derivatives,3,brazil - derivatives
+1278,brazil  esa reports,5,brazil - esa reports
+1279,brazil  holidays,5,brazil - holidays
+1280,brazil  weekly reports,5,brazil - weekly reports
+1281,brazil champion,5,brazil- champion
+1282,brazil directory,5,brazil directory
+1283,brazil news,5,brazil news
+1284,brazil trips,5,brazil trips
+1285,brazil,5,brazil
+1286,brokerage accounts,3,brokerage accounts
+1287,carol stclair,0,carol stclair
+1288,catalytica,2,catalytica
+1289,collateral issues,3,collateral issues
+1290,computer,1,computer
+1291,confirm desk,1,confirm desk
+1292,confirms  argentina,5,confirms - argentina
+1293,confirms  equity,3,confirms - equity
+1294,confirms  hickerson,2,confirms - hickerson
+1295,confirms  interest rate,3,confirms - interest rate
+1296,confirms  london paper  pulp,5,confirms - london paper & pulp
+1297,confirms  paper  pulp,2,confirms - paper & pulp
+1298,confirms  sample,1,confirms - sample
+1299,confirms  weather,3,confirms - weather
+1300,confirmspower,2,confirms-power
+1301,consulting ag,3,consulting ag
+1302,cousins,0,cousins
+1303,credit watch,3,credit watch
+1304,credit worksheets,1,credit worksheets
+1305,ct corporation,2,ct corporation
+1306,delmarva,2,delmarva
+1307,deseret,0,deseret
+1308,enron corp board,3,enron corp. board
+1309,enron networks,3,enron networks
+1310,ernie,4,ernie
+1311,fisher  kristina,0,"fisher, kristina"
+1312,forms,1,forms
+1313,glover,2,glover
+1314,government affairs,6,government affairs
+1315,guaranties,3,guaranties
+1316,hickerson  ag trading,3,hickerson - ag trading
+1317,hickerson,2,hickerson
+1318,india  derivatives,3,india - derivatives
+1319,jeff nogid,4,jeff nogid
+1320,laptop,1,laptop
+1321,lotus notes link,0,lotus notes link
+1322,master swap issues,3,master swap issues
+1323,merrill lynch,3,merrill lynch
+1324,messages,1,messages
+1325,moosehead,2,moosehead
+1326,name changemerger,2,name change_merger
+1327,nelson,4,nelson
+1328,nymex hedge exemptions,3,nymex hedge exemptions
+1329,nymex,2,nymex 
+1330,nymex,2,nymex
+1331,organizational changes,3,organizational changes
+1332,pats,4,pats
+1333,performance mgmt ,3,performance mgmt.
+1334,philippines,5,philippines
+1335,portuguese,5,portuguese
+1336,rmt,2,rmt
+1337,sample forms,1,sample forms
+1338,smith barney,4,smith barney
+1339,southern cone financial masters,0,southern cone financial masters
+1340,stack  shari,2,"stack, shari"
+1341,swap group,3,swap group
+1342,swap,3,swap
+1343,trader guidelines,3,trader guidelines
+1344,trs,2,trs
+1345,virus alerts,1,virus alerts
+1346,young  randy,0,"young, randy"
+1347,bks,2,bks
+1348,global mkts,3,global mkts
+1349,art comm,2,art comm
+1350,old email,1,old email
+1351,2001 budget cost cutting,3,2001 budget- cost cutting 
+1352,2001 budget,3,2001 budget
+1353,2001 prc midyear,3,2001 prc- midyear
+1354,2001 witchunt,2,2001 witchunt
+1355,affiliate codes conduct,3,affiliate codes of conduct
+1356,associations,3,associations
+1357,broadband services,3,broadband services
+1358,bush administration,0,bush administration
+1359,caem,2,caem
+1360,california coverup,5,california coverup
+1361,california legal issues,3,california legal issues
+1362,compliments,1,compliments
+1363,computers,1,computers
+1364,congrats,4,congrats
+1365,default service opportunities,3,default service  opportunities
+1366,patriotism,0,patriotism
+1367,resource committment req s,2,resource committment req's
+1368,democrats,2,democrats
+1369,doe,0,doe
+1370,enron online,2,enron online
+1371,enviromental,7,enviromental
+1372,epsa,2,epsa
+1373,europejuly,3,europe-july
+1374,europejune,3,europe-june
+1375,europeoctober,3,europe-october
+1376,federal govt affairs,6,federal gov't affairs
+1377,federal legis ,6,federal legis.
+1378,forest paper products,0,forest and paper products
+1379,gas issues,7,gas issues
+1380,generation,7,generation
+1381,europeaugust,3,europe-august
+1382,global markets,3,global markets
+1383,granite  2 ,0,"granite ""2"""
+1384,hedging,3,hedging
+1385,industrial cust  solutions,3,industrial cust. solutions
+1386,interconnection issues,3,interconnection issues
+1387,investing,3,investing
+1388,ken lay,2,ken lay
+1389,market structure  seabron adamson ,3,market structure( seabron adamson)
+1390,media,1,media
+1391,merchant function group,3,merchant function group
+1392,midatlantic,2,mid-atlantic
+1393,midwest,7,midwest
+1394,naruc,2,naruc
+1395,national campaign,3,national campaign
+1396,new englandny,2,new england_ny
+1397,new englandny,2,new england/ny
+1398,notre dame,5,notre dame
+1399,organizational issues,3,organizational issues
+1400,personal travel,1,personal travel
+1401,pg  e bankruptcy,3,pg&e bankruptcy
+1402,pge sale,2,pge sale
+1403,policy papers,6,policy papers
+1404,price risk management ,3,price risk management.
+1405,qf s  risk analysis,3,qf's-- risk analysis
+1406,refund cases,3,refund cases
+1407,retail markets,3,retail markets
+1408,retail operations,3,retail operations
+1409,rto campaign,2,rto campaign
+1410,show cause motion,2,show cause motion
+1411,rto filings order 2000,3,rto filings- order 2000
+1412,sce deal,2,sce deal
+1413,shopping,3,shopping
+1414,southeast,7,southeast
+1415,speaking engagements,3,speaking engagements
+1416,staff meetings,1,staff meetings
+1417,synfuel tax crredits,7,synfuel tax crredits
+1418,training govt  affairs,6,training- gov't. affairs
+1419,value,3,value
+1420,venezuelacolombia,5,venezuela_colombia
+1421,venezuelacolombia,5,venezuela/colombia
+1422,western governor s university,7,western governor's university
+1423,wholesale markets,3,wholesale markets
+1424,exmerge  shively  hunter ,2,"exmerge - shively, hunter s."
+1425,peoples hedges,0,peoples hedges
+1426,genie,2,genie
+1427,mark,2,mark
+1428,demand information,1,demand information
+1429,desk matters,1,desk matters
+1430,pipeline matters,7,pipeline matters
+1431,accounting issues,3,accounting issues
+1432,citizens,3,citizens
+1433,contractbids,3,contract/bids
+1434,crestone,2,crestone
+1435,desert power,7,desert power
+1436,lost creek,0,lost creek
+1437,mark whitt,2,mark whitt
+1438,post bankruptcy,3,post bankruptcy
+1439,psco,2,psco
+1440,list,1,to do list
+1441,eei collateral annex,3,eei collateral annex
+1442,engage emails,1,engage e-mails
+1443,important emails,1,important e-mails
+1444,inland,7,inland
+1445,isda matters,6,isda matters
+1446,megamorgan assignment,2,mega_morgan assignment
+1447,power emails,1,power e-mails
+1448,reliant energy,7,reliant energy
+1449,smud emails,1,smud e-mails
+1450,aga storage report,2,aga storage report
+1451,alliance rto,2,alliance rto
+1452,arizona,5,arizona
+1453,california issues,5,california issues
+1454,ca refunds,3,ca refunds
+1455,pnw refunds,3,pnw refunds
+1456,western gas,7,western gas
+1457,clinton energy,2,clinton energy
+1458,competition messages,1,competition messages
+1459,congress,2,congress
+1460,creditworthiness,3,creditworthiness
+1461,ees mgmt,8,ees mgmt
+1462,eisbubr,2,eisb/ubr
+1463,electric reports,7,electric reports
+1464,environmental,7,environmental
+1465,fed legis 2001,6,fed legis 2001
+1466,ferc reporting reqts,2,ferc reporting reqts
+1467,ferc code conduct nopr,2,ferc code of conduct nopr
+1468,ferc gas issues,7,ferc gas issues
+1469,ferc interconnection anopr,2,ferc interconnection anopr
+1470,ferc mbr proceeding,2,ferc mbr proceeding
+1471,ferc west infrastructure,7,ferc west infrastructure
+1472,ferc westconnect,2,ferc westconnect
+1473,ga fundamentals,3,ga fundamentals
+1474,granite ii,2,granite ii
+1475,gu recruiting,10,gu recruiting
+1476,icap policy,3,icap policy
+1477,important information,1,important information
+1478,marketing affiliate matters,3,marketing affiliate matters
+1479,mbr  market power,3,mbr / market power
+1480,midwest retail delivery,3,midwest retail delivery
+1481,nat gas,7,nat gas
+1482,nevada,5,nevada
+1483,ontario nug,5,ontario nug
+1484,passwords,1,passwords
+1485,security  collateral,3,security / collateral
+1486,show cause,2,show cause
+1487,spp,0,spp
+1488,structured supply,3,structured supply
+1489,top 10 issues 6101,2,top 10 issues 6/1/01
+1490,us sup ct case,2,us sup ct case
+1491,wholesale policy reform,3,wholesale policy reform
+1492,work,3,work mail
+1493,enron corp,2,enron corp
+1494,client rep,3,client rep
+1495,mrkt info,1,mrkt info
+1496,mid markt,2,mid markt
+1497,murray,4,murray
+1498,banding,0,banding
+1499,kpmg,2,kpmg
+1500,brenda herod,4,brenda herod
+1501,ercot,2,ercot
+1502,intrmonth book,2,intr-month book
+1503,metering forcasting,7,metering and forcasting
+1504,neil b ,4,neil b.
+1505,todd busby,4,todd busby
+1506,sqmd,2,sqmd
+1507,volume mang ,2,volume mang.
+1508,credit rings,3,credit rings
+1509,estate,0,estate
+1510,govt,2,govt
+1511,ring trades,3,ring trades
+1512,tcpl,2,tcpl
+1513,canada business,5,canada business
+1514,broker sheets,3,broker sheets
+1515,pira,2,pira
+1516,recruiters,1,recruiters
+1517,terminations,3,terminations
+1518,ubs benefits,2,ubs benefits
+1519,meh new projects,2,meh new projects
+1520,confirms,2,confirms
+1521,confirms,2,no more confirms
+1522,corporate comm,2,corporate comm
+1523,ctpy contacts,1,ctpy contacts
+1524,deal communication,3,deal communication
+1525,cal px,8,cal px
+1526,credit watchlist,3,credit watchlist
+1527,ctpy name changes,2,ctpy name changes
+1528,deal discrepancies,3,deal discrepancies
+1529,dow jones,4,dow jones
+1530,econ 201,2,econ 201
+1531,power marketer,7,power marketer
+1532,rainy day,0,rainy day
+1533,real time,2,real time
+1534,services,3,services
+1535,100,2,1_00
+1536,archive,1,archive
+1537,1199,2,11_99
+1538,200,2,2_00
+1539,200105,2,2001/05
+1540,200106,2,2001/06
+1541,200106,2,200106
+1542,200107,2,2001/07
+1543,200108,2,2001/08
+1544,200109,2,2001/09
+1545,200110,2,2001/10
+1546,200111,2,2001/11
+1547,500,2,5_00
+1548,600,2,6_00
+1549,700,2,7_00
+1550,800,2,8_00
+1551,900,2,9_00
+1552,november1999,2,november1999
+1553,australia trading,3,australia trading
+1554,boat,0,boat
+1555,brazil trading,3,brazil trading
+1556,click home,1,click at home
+1557,credit watch list,1,credit watch list
+1558,file space,1,file space
+1559,analyst prog,3,analyst prog
+1560,archieves coal news,7,archieves coal news
+1561,atlanta,5,atlanta
+1562,coe2,2,coe2
+1563,compression,7,compression
+1564,cranes,0,cranes
+1565,emissions email,1,emissions e-mail
+1566,enron south,7,enron south
+1567,entouch,2,entouch
+1568,esource,2,esource
+1569,ev,8,ev
+1570,forbes,4,forbes
+1571,john mas,4,john mas
+1572,lisa j,4,lisa j
+1573,marketing,3,marketing
+1574,mary schoen,4,mary schoen
+1575,methanol plant,7,methanol plant
+1576,michelle schultz,4,michelle schultz
+1577,midmarketing,2,mid-marketing
+1578,nox model,2,nox model
+1579,websites,1,websites
+1580,noxtech,2,noxtech
+1581,siegal,2,siegal
+1582,so2,2,so2
+1583,social,3,social
+1584,tnrcc,2,tnrcc
+1585,trades,3,trades
+1586,trading track,3,trading track
+1587,trevor,4,trevor
+1588,indian trading,3,indian trading
+1589,kelly,4,kelly
+1590,kiodex,2,kiodex
+1591,monmouth,2,monmouth
+1592,content,1,content
+1593,credit derivatives,3,credit derivatives
+1594,eta amendments,2,eta amendments
+1595,product descriptions,1,product descriptions
+1596,oslo,2,oslo
+1597,sa trading,3,s.a. trading
+1598,singapore trading,3,singapore trading
+1599,stored messages,1,stored messages
+1600,swap group project lists,3,swap group project lists
+1601,time,2,time off
+1602,uk trading,3,uk trading
+1603,yoder,2,yoder
+1604,janie,2,janie
+1605,westgas,7,westgas
+1606,akzo nobel  filtrol,2,akzo nobel - filtrol
+1607,arco,0,arco
+1608,basin electric,7,basin electric
+1609,bhp,2,bhp
+1610,cdwr,2,cdwr
+1611,citizens utilities,7,citizens utilities
+1612,eastern new mexico gas co ,7,eastern new mexico gas co.
+1613,el paso electric,9,el paso electric
+1614,frito lay,0,frito lay
+1615,gas customers  chris foster,7,gas customers - chris foster
+1616,glendale,5,glendale
+1617,henwood,2,henwood
+1618,hesco,2,hesco
+1619,temporary,3,temporary
+1620,knauf,2,knauf
+1621,las cruces,8,las cruces
+1622,ldwp,2,ldwp
+1623,long beach,0,long beach
+1624,merced,5,merced
+1625,midesto,5,midesto
+1626,ncpa,2,ncpa
+1627,noresco,2,noresco
+1628,pasadena,2,pasadena
+1629,pipeline,7,pipeline
+1630,pnm,2,pnm
+1631,roseville,5,roseville
+1632,san diego gas  electric,9,san diego gas & electric
+1633,smud,2,smud
+1634,smurfit,2,smurfit
+1635,socal gas,7,socal gas
+1636,srp,2,srp
+1637,tep,2,tep
+1638,transportation,7,transportation
+1639,west gas origination,7,west gas origination
+1640,account assignments,1,account assignments
+1641,agave,0,agave
+1642,alternate delivery price,3,alternate delivery by price
+1643,aquila red lake storage,7,aquila red lake storage
+1644,big sandy  caithness,0,big sandy - caithness
+1645,business objects,3,business objects
+1646,capacity release,3,capacity release
+1647,capacity,7,capacity
+1648,contact emp  list,1,contact emp. list
+1649,credit union,3,credit union
+1650,customer list,1,customer list
+1651,daily balancing report,1,daily balancing report
+1652,desert crossing storage,0,desert crossing storage
+1653,dra,8,dra
+1654,drafts  lotus notes ,0,drafts (lotus notes)
+1655,email bin,1,e-mail bin
+1656,elpaso pipeline,7,elpaso pipeline
+1657,ethink,2,ethink
+1658,expense rpts  1997,3,expense rpts. 1997
+1659,girls,0,girls
+1660,glen hass,0,glen hass
+1661,grijan 1996,2,gri-jan 1996
+1662,holidays,1,holidays
+1663,industry mentions,3,industry mentions
+1664,interconnect agreement sample,3,interconnect agreement sample
+1665,italy,5,italy
+1666,keyex 1997,2,keyex 1997
+1667,kingman heat recovery,2,kingman heat recovery
+1668,mike reynolds,4,mike reynolds
+1669,negotiated rates,3,negotiated rates
+1670,nymex prices,3,nymex prices
+1671,call schedule,1,on call schedule
+1672,operational sales,3,operational sales
+1673,paris,5,paris
+1674,park n ride,0,park 'n ride
+1675,payroll electronic directions,1,payroll electronic directions
+1676,pba s,2,pba's
+1677,pemex trans pecos,2,pemex trans pecos
+1678,pros,2,pros
+1679,questar,2,questar
+1680,rm science review,2,rm science review
+1681,rm work order,2,rm work order
+1682,san juan expansion,7,san juan expansion
+1683,socalgas,7,socalgas
+1684,strategic model,3,strategic model
+1685,sun devil expansion,7,sun devil expansion
+1686,top shippers,7,top shippers
+1687,tw cas,8,tw cas
+1688,tw hedges,2,tw hedges
+1689,tw imbalances,2,tw imbalances
+1690,tw options sales program,3,tw options sales program
+1691,tw outages,2,tw outages
+1692,tw rate matrix,2,tw rate matrix
+1693,tw throughput analysis,2,tw throughput analysis
+1694,tw weekly report,2,tw weekly report
+1695,vinson  elkins,2,vinson & elkins
+1696,abraxas,2,abraxas
+1697,associate,3,associate
+1698,austin energy,2,austin energy
+1699,citibank,3,citibank
+1700,ed,8,ed
+1701,freestone,0,freestone
+1702,highland,0,highland
+1703,kcs,2,kcs
+1704,kern,2,kern
+1705,misc  gas issues,7,misc. gas issues
+1706,neumin,2,neumin
+1707,project orange,7,project orange
+1708,hurricane,0,hurricane
+1709,ja,8,ja
+1710,ag model,2,ag model
+1711,southern lng,7,southern lng
+1712,stagecoach,0,stagecoach
+1713,unocal,2,unocal
+1714,ut mba,8,ut mba
+1715,economics,3,economics
+1716,mariner,0,mariner
+1717,markets,3,markets
+1718,merchant investments,3,merchant investments
+1719,ecommerce,3,ecommerce
+1720,andersen requests,4,andersen requests
+1721,curves,0,curves
+1722,cya,2,cya
+1723,ena cal,8,ena cal
+1724,flash,2,flash
+1725,gencoplant misc,4,genco_plant misc
+1726,global standards,3,global standards
+1727,itineraryreceipt,3,itinerary/receipt
+1728,itineraryreceipt,3,itinerary_receipt
+1729,portcalc requests,1,portcalc requests
+1730,val,8,val
+1731,west var,8,west var
+1732,6day,2,6day
+1733,deals,3,deals
+1734,jays stuff,4,jays stuff
+1735,bill williams iii,4,bill williams iii
+1736,bill,3,bill
+1737,california messages,5,california messages
+1738,enron messages,1,enron messages
+1739,forney,2,forney
+1740,gwolfe,2,gwolfe
+1741,operations committeeisas,3,operations committee/isas
+1742,preschedule,2,preschedule
+1743,rt cuts,2,rt cuts
+1744,rt strat,8,rt strat
+1745,schedule crawler,1,schedule crawler
+1746,symesees,2,symesees
+1747,tie meter multipliers,2,tie meter multipliers
+1748,timbelden,2,timbelden
+1749,05saved,1,05-saved
+1750,06saved,1,06-saved
+1751,07saved,1,07-saved
+1752,08saved,1,08-saved
+1753,09saved,1,09-saved
+1754,10saved,1,10-saved
+1755,saved01,1,saved-01
+1756,saved02,1,saved-02
+1757,saved03,1,saved-03
+1758,saved04,1,saved-04
+1759,saved11,1,saved-11
+1760,saved12,1,saved-12
+1761,ad gas,7,ad gas
+1762,cabot,2,cabot
+1763,dabhol  cond  use,2,dabhol - cond. of use
+1764,eco  cond  use,2,eco - cond. of use
+1765,ecoelectrica,2,ecoelectrica
+1766,enron lng,2,enron lng
+1767,hoegh galleon,0,hoegh galleon
+1768,oman lng,2,oman lng
+1769,procaribe,2,procaribe
+1770,associate prc,10,associate prc
+1771,broker client,3,broker client
+1772,charges,3,charges
+1773,emetra,2,emetra
+1774,espeed,2,espeed
+1775,hs,8,hs
+1776,natsource,2,natsource
+1777,offline,1,offline
+1778,reuters,9,reuters
+1779,tq,8,tq
+1780,tradecounts,2,tradecounts
+1781,tss,2,tss

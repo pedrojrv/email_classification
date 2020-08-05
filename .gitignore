@@ -1,0 +1,10 @@
+Datasets/preprocessed_data.csv
+Datasets/preprocessed_data_v2.csv
+Datasets/preprocessed_df_v2.csv
+Datasets/preprocessed_df.csv
+Datasets/data_filtered.csv
+Datasets/emails.csv
+Datasets/medium_data.csv
+Datasets/message_length.csv
+Models/LSTM_OnlyE_10epoch_90.h5
+Models/GoogleNews-vectors-negative300.bin.gz
