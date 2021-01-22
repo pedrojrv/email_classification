@@ -27,7 +27,7 @@ with open('Models/tokenizer.pickle', 'rb') as handle:
 
 
 labels = ['Weather/Natural','Sent Mail','Random/NA','Financial/Logistics','Related to Other People',
-          'Places','Legal','Buisness','2-Letter/Random','Other Firms','HR/Recruiting/MBA']
+          'Places','Legal','Business','2-Letter/Random','Other Firms','HR/Recruiting/MBA']
 
 print("\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n")
 
