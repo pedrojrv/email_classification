@@ -59,7 +59,7 @@ The folder were the email was saved was taken as the label; however, some people
 
 ## ML Models 
 
-A variety of models we're lightly tested including Decision Trees and Random Forests. Eventually due to limited performance in these models an LSTM model was trained and tested. See WRITEUP for more information. 
+A variety of models we're lightly tested including Decision Trees and Random Forests. Eventually due to limited performance in these models, an LSTM model was trained and tested. The model is far from perfect with a training and validation accuracy of 0.87 and 0.62 respectively, but it demonstrates the core workflow when dealing with NLP challenges. GPU resources open up to the possibility of creating more complex and accurate models.
 
 ## Testing
 
